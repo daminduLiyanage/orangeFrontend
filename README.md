@@ -1,8 +1,6 @@
 Setting up the backend
 
-
-
-The backend will run on any UNIX based machine with the requirements given in the assignment (with Apache, MariaDB and PHP 7+).
+The backend will run on any UNIX based machine. Need Apache, MariaDB and PHP 7+.
 
 Installation g1uide if using the vagrant machine:
 
